@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <div>
           <nav>
-            <ul class="flex p-6 bg-gray-500 justify-center">
+            <ul class="flex px-6 py-4 bg-indigo-500 justify-center">
               <li>
                 <Link to="/">Home</Link>
               </li>
